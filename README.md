@@ -184,9 +184,6 @@ interface BundleConfig {
 
 ## Support
 
-Telegram Contact [@sealdev](https://t.me/sealdev)
+[Twitter](https://x.com/0xmooncity)
 
-## License
-
-MIT License
 
